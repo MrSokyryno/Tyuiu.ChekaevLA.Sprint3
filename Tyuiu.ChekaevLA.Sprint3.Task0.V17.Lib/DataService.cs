@@ -9,7 +9,7 @@
             {
                 sum += Math.Cos(i) * 0.5;
             }
-            return sum;
+            return Math.Round(sum,3);
         }
     }
 }

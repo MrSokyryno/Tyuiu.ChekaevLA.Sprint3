@@ -10,7 +10,7 @@
                 startValue++;
                 multi *= Math.Cos(value) + startValue / 4;
             }
-            return multi;
+            return Math.Round(multi,3);
         }
     }
 }

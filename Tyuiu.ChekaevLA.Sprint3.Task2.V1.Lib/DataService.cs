@@ -11,7 +11,7 @@
                 startValue++;
             }
             while(startValue<=stopValue);
-            return sum;
+            return Math.Round(sum,3);
         }
     }
 }
