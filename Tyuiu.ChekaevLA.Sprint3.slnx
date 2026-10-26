@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task0.V17/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task0.V17.Lib/Tyuiu.ChekaevLA.Sprint3.Task0.V17.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task0.V17.Test/Tyuiu.ChekaevLA.Sprint3.Task0.V17.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task0.V17/Tyuiu.ChekaevLA.Sprint3.Task0.V17.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task1.V19/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task1.V19.Lib/Tyuiu.ChekaevLA.Sprint3.Task1.V19.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task1.V19.Test/Tyuiu.ChekaevLA.Sprint3.Task1.V19.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task1.V19/Tyuiu.ChekaevLA.Sprint3.Task1.V19.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task2.V1/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task2.V1.Lib/Tyuiu.ChekaevLA.Sprint3.Task2.V1.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task2.V1.Test/Tyuiu.ChekaevLA.Sprint3.Task2.V1.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task2.V1/Tyuiu.ChekaevLA.Sprint3.Task2.V1.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task3.V17/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task3.V17.Lib/Tyuiu.ChekaevLA.Sprint3.Task3.V17.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task3.V17.Test/Tyuiu.ChekaevLA.Sprint3.Task3.V17.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task3.V17/Tyuiu.ChekaevLA.Sprint3.Task3.V17.csproj" />
+  </Folder>
+</Solution>
