@@ -23,13 +23,13 @@ namespace Tyuiu.ChekaevLA.Sprint3.Task1.V19
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* начальное k=1                                                           *");
-            Console.WriteLine("* конечное k=10                                                           *");
+            Console.WriteLine("* конечное k=9                                                            *");
             Console.WriteLine("* X=1                                                                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(dataService.GetMultiplySeries(1,1,10));
+            Console.WriteLine(dataService.GetMultiplySeries(1,1,9));
 
             Console.ReadKey();
         }

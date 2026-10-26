@@ -4,11 +4,11 @@
     {
         public double GetMultiplySeries(int value, int startValue, int stopValue)
         {
-            double multi = 1;
+            double multi = 1.0;
             while (startValue <= stopValue) 
             {
+                multi *= Math.Cos(value) + startValue / 4.0;
                 startValue++;
-                multi *= Math.Cos(value) + startValue / 4;
             }
             return Math.Round(multi,3);
         }
