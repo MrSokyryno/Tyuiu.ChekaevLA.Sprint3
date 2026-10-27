@@ -19,4 +19,23 @@
     <Project Path="Tyuiu.ChekaevLA.Sprint3.Task3.V17.Test/Tyuiu.ChekaevLA.Sprint3.Task3.V17.Test.csproj" />
     <Project Path="Tyuiu.ChekaevLA.Sprint3.Task3.V17/Tyuiu.ChekaevLA.Sprint3.Task3.V17.csproj" />
   </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task4.V4/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task4.V4.Lib/Tyuiu.ChekaevLA.Sprint3.Task4.V4.Lib.csproj" Id="ce21af63-8e8a-4e28-952e-3feaceb2f19a" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task4.V4.Test/Tyuiu.ChekaevLA.Sprint3.Task4.V4.Test.csproj" Id="ba434eea-ddef-48c7-b001-cb6dabe2e78a" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task4.V4/Tyuiu.ChekaevLA.Sprint3.Task4.V4.csproj" Id="9d995495-13e8-41c1-9fdc-ac0705ff3706" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task5.V16/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task5.V16.Lib/Tyuiu.ChekaevLA.Sprint3.Task5.V16.Lib.csproj" Id="531f0d5d-9ca9-4c7f-bb84-3f14cf293b2f" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task5.V16.Test/Tyuiu.ChekaevLA.Sprint3.Task5.V16.Test.csproj" Id="ae7fcbba-e532-4703-b139-119edb7c82de" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task5.V16/Tyuiu.ChekaevLA.Sprint3.Task5.V16.csproj" Id="bb0dfa45-b09f-428c-ada9-672ad82e43c6" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task6.V17/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task6.V17.Lib/Tyuiu.ChekaevLA.Sprint3.Task6.V17.Lib.csproj" Id="133fd66a-d7d0-4e69-b382-2e2b5358e744" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task6.V17.Test/Tyuiu.ChekaevLA.Sprint3.Task6.V17.Test.csproj" Id="274e5d5e-277b-4c76-b69d-2f91c8642e5e" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task6.V17/Tyuiu.ChekaevLA.Sprint3.Task6.V17.csproj" Id="7ed9dac9-a575-4ace-afbb-d32a10c068fe" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint3.Task7.V27/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task7.V27.Lib/Tyuiu.ChekaevLA.Sprint3.Task7.V27.Lib.csproj" Id="07688edf-0442-4382-8b7d-3b625809e5c4" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint3.Task7.V27/Tyuiu.ChekaevLA.Sprint3.Task7.V27.csproj" Id="90e9a616-a7cc-46a4-93dd-058313ec7c08" />
+  </Folder>
 </Solution>
